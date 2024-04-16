@@ -1,0 +1,38 @@
+.all-products-main{
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.each-product{
+    width: 20%;
+    border: 0.7px solid gainsboro;
+    border-radius: 10px;
+}
+.pro-header h1{
+    width: 20%;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 10px;
+    color: white;
+}
+.pro-text{
+    width: 98%;
+    margin-left: 20px;
+}
+.pro-text strong, h3{
+    color: gray;
+}
+.pro-btn a{
+    width: 40%;
+}
+.products-all-div{
+    width: 100%;
+}
+.pro-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pro-img img{
+    width: 200px;
+}

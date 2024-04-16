@@ -1,0 +1,46 @@
+.banner{
+    width: 90%;
+}
+.banner-card{
+    width: 90%;
+}
+.each-banner{
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.each-banner img{
+    border-radius: 5px;
+}
+.banner-text{
+    width: 90%;
+    margin-bottom: 20px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 90%;
+    background-color: white;
+}
+.banner-text h1{
+    width: 90%;
+    font-size: 13px;
+}
+.banner-text button{
+    width: 40%;
+}
+.cart-sections{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.banner-text p{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}

@@ -1,0 +1,40 @@
+.main-slider{
+    width: 90%;
+}
+.slide-left{
+    width: 40%;
+}
+.slide-right{
+    width: 30%;
+}
+.slider{
+    width: 100%;
+}
+.icons-sec{
+    width: 90%;
+}
+.icon{
+    width: 19%;
+    justify-content: space-around;
+}
+.icon-img{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-text{
+    width: 58%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.icon-text h2{
+    font-size: 13px;
+}
+.icon-text p{
+    font-size: 10px;
+}
